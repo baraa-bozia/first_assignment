@@ -1,7 +1,5 @@
-// Online Javascript Editor for free
-// Write, Edit and Run your Javascript code using JS Online Compiler
 
-console.log("Welcome to Programiz!");
+
 const arr=[2,7,11,15];
 var target=18;
 function fun(arr,target){
